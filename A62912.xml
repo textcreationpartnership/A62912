@@ -1,0 +1,896 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New Englands crisis, or, A brief narrative of New-Englands lamentable estate at present, compar'd with the former (but few) years of prosperity occasioned by many unheard of cruelties practised upon the persons and estates of its united colonyes ... : poetically described / by a well wisher to his countrey.</title>
+            <author>Tompson, Benjamin, 1642-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62912</idno>
+            <idno type="STC">Wing T1866</idno>
+            <idno type="STC">ESTC W5677</idno>
+            <idno type="EEBO-CITATION">13070401</idno>
+            <idno type="OCLC">ocm 13070401</idno>
+            <idno type="VID">97115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97115)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 401:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New Englands crisis, or, A brief narrative of New-Englands lamentable estate at present, compar'd with the former (but few) years of prosperity occasioned by many unheard of cruelties practised upon the persons and estates of its united colonyes ... : poetically described / by a well wisher to his countrey.</title>
+                  <author>Tompson, Benjamin, 1642-1714.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by John Foster ...,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 29: B. Tompson.</note>
+                  <note>The supplement (p. 22-31) was also published as: New-Englands tears for her present miseries, or, A late and true relation of the calamities of New England. London, 1676.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>King Philip's War, 1675-1676.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97115:1"/>
+            <pb facs="tcp:97115:1" rendition="simple:additions"/>
+            <p>
+               <hi>New Englands Criſis</hi>
+            </p>
+            <p>Or a Brief Narrative, Of <hi>NEW-ENGLANDS</hi> Lamentable Eſtate at preſent, compar'd with the for<g ref="char:EOLhyphen"/>mer (but few) years of Proſperity.</p>
+            <p>Occaſioned by many unheard of <hi>Cruel tyes</hi> practiſed upon the <hi>Perſons</hi> and <hi>Eſtates</hi> of its united <hi>Colonyes,</hi> without reſpect of <hi>Sex, Age</hi> or <hi>Quality</hi> of Perſons, by the Barbarous <hi>Heathen</hi> thereof.</p>
+            <p>
+               <hi>Poetically Deſcribed.</hi>
+            </p>
+            <p>By a Well wiſher to his <hi>Countrey.</hi>
+            </p>
+            <p>BOSTON, Printed and ſold by <hi>John Foſter,</hi> over againſt the Sign of the <hi>Dove.</hi> 1676.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97115:2"/>
+            <pb facs="tcp:97115:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>I never thought this <hi>Babe</hi> of my weak <hi>Phantaſie</hi> worthy of an <hi>Imprima<g ref="char:EOLhyphen"/>tur;</hi> but being an <hi>Abortive,</hi> it was beg'd in theſe perplexing Times to be cheriſhed by the <hi>Charity</hi> of others. If its <hi>Li<g ref="char:EOLhyphen"/>neaments</hi> pleaſe not the <hi>Rea<g ref="char:EOLhyphen"/>der</hi>
+               <pb facs="tcp:97115:3"/>better than the <hi>Writer,</hi> I ſhall be glad to ſee it <hi>preſt</hi> to death: but if it diſpl aſe not many and ſatisfie any, its to me a glorious Rewa d, who am more willing than able to any Service to my Countrey and Friend,</p>
+            <closer>
+               <salute>Farewell</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:97115:3"/>
+            <head>New Englands Criſis</head>
+            <div type="prologue">
+               <head>THE PROLOGUE.</head>
+               <lg>
+                  <l>THe times wherein old <hi>Pompion</hi> was a Saint,</l>
+                  <l>When men far'd hardly yet without com<g ref="char:EOLhyphen"/>plaint</l>
+                  <l>On vileſt <hi>Cates;</hi> the dainty <hi>Indian Maize</hi>
+                  </l>
+                  <l>Was eat with <hi>Clamp-ſhells</hi> out of wooden Trayes</l>
+                  <l>Under thatcht <hi>Hutts</hi> without the cry of <hi>Rent,</hi>
+                  </l>
+                  <l>And the beſt <hi>Sawce</hi> to every Diſh, <hi>Content.</hi>
+                  </l>
+                  <l>When Fleſh was food, &amp; hairy skins made coats,</l>
+                  <l>And men as wel as birds had chirping Notes.</l>
+                  <pb n="6" facs="tcp:97115:4"/>
+                  <l>When Cimnels were accounted noble bloud</l>
+                  <l>Among the tribes of common herbage food.</l>
+                  <l>Of <hi>Ceres</hi> bounty form'd was many a knack</l>
+                  <l>Enough to fill <hi>poor Robins Almanack.</hi>
+                  </l>
+                  <l>Theſe golden times (too fortunate to hold)</l>
+                  <l>Were quickly ſin'd away for love of gold.</l>
+                  <l>Twas then among the buſhes, not the ſtreet</l>
+                  <l>If one in place did an inferiour meet,</l>
+                  <l>Good morrow Brother, is there ought you want?</l>
+                  <l>Take freely of me, what I have you ha'nt.</l>
+                  <l>Plain <hi>Tom</hi> and <hi>Dick</hi> would paſs as currant now,</l>
+                  <l>As ever ſince <hi>Your Servant Sir</hi> and bow.</l>
+                  <l>Deep-skirted doublets, <hi>puritanick</hi> capes</l>
+                  <l>Which now would render men like upright Apes,</l>
+                  <l>Was comlier wear our wiſer Fathers thought</l>
+                  <l>Than the caſt faſhions from all <hi>Europe</hi> brought.</l>
+                  <l>Twas in thoſe dayes an honeſt <hi>Grace</hi> would hold</l>
+                  <l>Till an hot puddin grew at heart a cold.</l>
+                  <l>And men had better ſtomachs to religion</l>
+                  <l>Than I to capon, turkey-cock or pigeon.</l>
+                  <l>When honeſt Siſters met to pray not prate</l>
+                  <l>About their own and not their neighbours ſtate.</l>
+                  <l>During <hi>Plain Dealings</hi> Reign, that worthy Stud</l>
+                  <l>Of th'ancient planters race before the flood</l>
+                  <l>Theſe times were good, Merchants car'd not a ruſh</l>
+                  <l>For other fare than <hi>Jonakin and Muſh.</hi>
+                  </l>
+                  <pb n="7" facs="tcp:97115:4"/>
+                  <l>Although men far'd and lodged very hard</l>
+                  <l>Yet Innocence was better than a Guard.</l>
+                  <l>Twas long before ſpiders &amp; wormes had drawn</l>
+                  <l>Their dungy webs or hid with cheating Lawne</l>
+                  <l>
+                     <hi>New Englands</hi> beautyes, which ſtil ſeem'd to me</l>
+                  <l>Illuſtrious in their own ſimplicity.</l>
+                  <l>Twas ere the neighbouring <hi>Virgin-land</hi> had brok:</l>
+                  <l>The Hogſheads of her worſe than helliſh ſmock.</l>
+                  <l>Twas ere the Iſlands ſent their Preſents in,</l>
+                  <l>Which but to uſe was counted next to ſin.</l>
+                  <l>Twas ere a <hi>Barge</hi> had made ſo rich a fraight</l>
+                  <l>As <hi>Chocholatte,</hi> duſt-gold and bitts of eight.</l>
+                  <l>Ere wines from <hi>France</hi> and <hi>Moſcovadoe</hi> too</l>
+                  <l>Without the which the drink will ſcarſly doe,</l>
+                  <l>From weſtern Iſles, ere fruits and dilicacies,</l>
+                  <l>Did rot maids teeth &amp; ſpoil their hanſome faces.</l>
+                  <l>Or ere theſe times did chance the noiſe of war</l>
+                  <l>Was from our towns and hearts removed far.</l>
+                  <l>No Bugbear Comets in the chryſtal air</l>
+                  <l>To drive our chriſtian Planters to deſpair.</l>
+                  <l>No ſooner pagan malice peeped forth</l>
+                  <l>But Valour ſnib'd it; then were men of worth</l>
+                  <l>Who by their prayers ſlew thouſands Angel like,</l>
+                  <l>Their weapons are unſeen with which they ſtrike.</l>
+                  <l>Then had the Churches reſt, as yet the coales</l>
+                  <l>Were covered up in moſt contentious ſouls.</l>
+                  <pb n="8" facs="tcp:97115:5"/>
+                  <l>Freeneſs in Judgment, union in affection,</l>
+                  <l>Dear love, ſound truth they were our grand protecti<g ref="char:EOLhyphen"/>on</l>
+                  <l>Theſe were the twins which in our Councells ſate,</l>
+                  <l>Theſe gave prognoſticks of our future fate,</l>
+                  <l>If theſe be longer liv'd our hopes increaſe,</l>
+                  <l>Theſe warrs will uſher in a longer peace:</l>
+                  <l>But if <hi>New-Englands</hi> love die in its youth</l>
+                  <l>The grave will open next for bleſſed Truth.</l>
+                  <l>This <hi>Theanke</hi> is out of date, the peacefull hours</l>
+                  <l>When Caſtles needed not but pleaſant bowers.</l>
+                  <l>Not ink, but bloud and tears now ſerve the turn</l>
+                  <l>To draw the figure of <hi>New-Englands</hi> Urne.</l>
+                  <l>
+                     <hi>New Englands</hi> hour of paſſion is at hand,</l>
+                  <l>No power except Divine can it withſtand;</l>
+                  <l>Scarce hath her glaſs of fifty years run out,</l>
+                  <l>But her old proſperous Steeds turn heads about,</l>
+                  <l>Tracking themſelves back to their poor beginnings,</l>
+                  <l>To fear and fare upon their fruits of ſinnings:</l>
+                  <l>So that the mirrour of the Chriſtian world</l>
+                  <l>I yes burnt to heaps in part, her Streamers furl'd</l>
+                  <l>Grief reigns, joyes flee and diſmal fears ſurpriſe,</l>
+                  <l>Not daſtard ſpirits only but the wiſe.</l>
+                  <l>Thus have the faireſt hopes deceiv'd the eye</l>
+                  <l>Of the big ſwoln Expectant ſtanding by.</l>
+                  <l>Thus the proud Ship after a little turn</l>
+                  <l>Sinks into <hi>Neptunes</hi> arm's to find its Urn.</l>
+                  <pb n="9" facs="tcp:97115:5"/>
+                  <l>Thus hath the heir to many thouſands born</l>
+                  <l>Been in an inſtant from the mother torn.</l>
+                  <l>Ev'n thus thine infant cheeks begin to pale,</l>
+                  <l>And thy ſupporters through great loſſes fail.</l>
+                  <l>This is the <hi>Prologue</hi> to thy future woe,</l>
+                  <l>The <hi>Epilogue</hi> no mortal yet can know.</l>
+               </lg>
+            </div>
+            <div type="body_of_poem">
+               <pb n="10" facs="tcp:97115:6"/>
+               <head>
+                  <hi>New Englands</hi> Criſis.</head>
+               <lg>
+                  <l>IN ſeventy five the <hi>Critick</hi> of our years</l>
+                  <l>Commenc'd our war with <hi>Phillip</hi> and his peers.</l>
+                  <l>Whither the ſun in <hi>Leo</hi> had inſpir'd</l>
+                  <l>A feav'riſh heat, and <hi>Pagan</hi> ſpirits fir'd?</l>
+                  <l>Whither ſome Romiſh Agent hatcht the plot?</l>
+                  <l>Or whither they themſelves? appeareth not.</l>
+                  <l>Whither our infant thrivings did invite?</l>
+                  <l>Or whither to our lands pretended right?</l>
+                  <l>Is hard to ſay; but <hi>Indian ſpirits</hi> need</l>
+                  <l>No grounds but luſt to make a Chriſtian bleed.</l>
+               </lg>
+               <lg>
+                  <l>And here methinks I ſee this greazy <hi>Lout</hi>
+                  </l>
+                  <l>with all his pagan ſlaves coil'd round about,</l>
+                  <l>Aſſuming all the majeſty his throne</l>
+                  <l>Of rotten ſtump, or of the rugged ſtone</l>
+                  <l>Could yield; caſting ſome bacon-rine-like looks,</l>
+                  <l>Enough to fright a Student from his books,</l>
+                  <l>Thus treat his peers, &amp; next to them his Commons,</l>
+                  <l>Kennel'd together all without a ſummons.</l>
+                  <pb n="11" facs="tcp:97115:6"/>
+                  <l>My friends, our Fathers were not half ſo wiſe</l>
+                  <l>As we our ſelves who ſee with younger eyes.</l>
+                  <l>They ſel our land to engliſh man who teach</l>
+                  <l>Our nation all ſo faſt to pray and preach:</l>
+                  <l>Of all our countrey they enjoy the beſt,</l>
+                  <l>And quickly they intend to have the reſt.</l>
+                  <l>This no wunnegin, ſo big matchit law,</l>
+                  <l>Which our old fathers fathers never ſaw.</l>
+                  <l>Theſe engliſh make and we muſt keep them too,</l>
+                  <l>Which is too hard for them or us to doe,</l>
+                  <l>We drink we ſo big whipt, but engliſh they</l>
+                  <l>Go ſneep, no more, or elſe a little pay.</l>
+                  <l>Me meddle Squaw me hang'd, our fathers kept</l>
+                  <l>What Sqaws they would whither they wakt or ſlept.</l>
+                  <l>Now if you'le fight Ile get you engliſh coats,</l>
+                  <l>And wine to drink out of their Captains throats.</l>
+                  <l>The richeſt merchants houſes ſhall be ours,</l>
+                  <l>Wee'l ly no more on matts or dwell in bowers</l>
+                  <l>Wee'l have their ſilken wives take they our Squaws,</l>
+                  <l>They ſhall be whipt by virtue of our laws.</l>
+                  <l>If ere we ſtrike tis now before they ſwell</l>
+                  <l>To greater ſwarmes then we know how to quell.</l>
+                  <l>This my reſolve, let neighbouring <hi>Sachems</hi> know,</l>
+                  <l>And every one that hath club, gun or bow.</l>
+                  <l>This was aſſented to, and for a cloſe</l>
+                  <l>He ſtrokt his ſmutty beard and curſt his foes.</l>
+                  <pb n="12" facs="tcp:97115:7"/>
+                  <l>This counſel lightning like their tribes invade,</l>
+                  <l>And ſomething like a muſter's quickly made,</l>
+                  <l>A ragged regiment, a naked ſwarm,</l>
+                  <l>Whome hopes of booty doth with courage arm,</l>
+                  <l>Set forthwith bloody hearts, the firſt they meet</l>
+                  <l>Of men or beaſts they butcher at their feet.</l>
+                  <l>They round our skirts, they pare, they fleece they kil,</l>
+                  <l>And to our bordering towns do what they will.</l>
+                  <l>Poor Hovills (better far then <hi>Caeſars</hi> court</l>
+                  <l>In the experience of the meaner ſort)</l>
+                  <l>Receive from them their doom next execution,</l>
+                  <l>By flames reduc'd to horror and confuſion:</l>
+                  <l>Here might be ſeen the ſmoking funeral piles</l>
+                  <l>Of wildred towns pitcht diſtant many miles.</l>
+                  <l>Here might be ſeen the infant from the breaſt</l>
+                  <l>Snatcht by a pagin hand to laſting reſt:</l>
+                  <l>The mother <hi>Rachel</hi>-like ſhrieks out my child</l>
+                  <l>She wrings her hands and raves as ſhe were wild.</l>
+                  <l>The bruitiſh wolves ſuppreſs her anxious moan</l>
+                  <l>By crueltyes more deadly of her own.</l>
+                  <l>Will ſhe or nill the chaſteſt turtle muſt</l>
+                  <l>Taſt of the pangs of their unbridled luſt.</l>
+                  <l>From farmes to farmes, from towns to towns they poſt,</l>
+                  <l>They ſtrip, they bind, they raviſh, flea and roaſt.</l>
+                  <l>The beaſts which wont their maſters crib to know,</l>
+                  <l>Over the aſhes of their ſhelters low.</l>
+                  <pb n="13" facs="tcp:97115:7"/>
+                  <l>What the inexorable flames doe ſpare</l>
+                  <l>More cruel <hi>Heathen</hi> lug away for fare.</l>
+                  <l>Theſe tidings ebbing from the outward parts</l>
+                  <l>Makes trades-men caſt aſide their wonted Arts</l>
+                  <l>And ſtudy armes: the craving merchants plot</l>
+                  <l>Not to augment but keep what they have got.</l>
+                  <l>And every ſoul which hath but common ſence</l>
+                  <l>Thinks it the time to make a juſt defence.</l>
+                  <l>
+                     <hi>Alarums</hi> every where reſound in ſtreets,</l>
+                  <l>From <hi>weſt</hi> ſad tidings with the <hi>Eaſtern</hi> meets.</l>
+                  <l>Our common fathers in their Councels cloſe</l>
+                  <l>A martial treaty with the pagan foes,</l>
+                  <l>All anſwers center here that fire and ſword</l>
+                  <l>Muſt make their <hi>Sachem</hi> univerſal Lord.</l>
+                  <l>This armes the engliſh with a reſolution</l>
+                  <l>To give the vaporing <hi>Scab</hi> a retribution.</l>
+                  <l>Heav'ns they conſult by prayer, the beſt deſign</l>
+                  <l>A furious foe to quel or undermine.</l>
+                  <l>
+                     <hi>RESOLV'D</hi> that from the <hi>Maſſachuſets</hi> bands</l>
+                  <l>Be preſt on ſervice ſome <hi>Herculean</hi> hands</l>
+                  <l>And certainly he wel deſerv'd a jerke</l>
+                  <l>That ſlipt the Collar from ſo good a work.</l>
+                  <l>Some Volunteers, ſome by compulſion goe</l>
+                  <l>To range the hideous forreſt for a foe.</l>
+                  <l>The tender Mother now's all bowels grown,</l>
+                  <l>Clings to her ſon as if they'd melt in one.</l>
+                  <pb n="14" facs="tcp:97115:8"/>
+                  <l>Wives claſpe about their husbands as the vine</l>
+                  <l>Huggs the fair elm, while tears burſt out like wine.</l>
+                  <l>The new-ſprung love in many a virgin heart</l>
+                  <l>Swels to a mountain when the lovers part.</l>
+                  <l>Nephews and kindred turn all ſprings of tears,</l>
+                  <l>Their hearts are ſo ſurpriz'd with panick fears.</l>
+                  <l>But dolefull ſhricks of captives ſummon forth</l>
+                  <l>Our walking caſtles, men of noted worth,</l>
+                  <l>Made all of life, each Captain was a <hi>Mars,</hi>
+                  </l>
+                  <l>His name too ſtrong to ſtand on wateriſh verſe:</l>
+                  <l>Due praiſe I leave to ſome poetick hand</l>
+                  <l>Whoſe pen and witts are better at command.</l>
+                  <l>Methinks I ſee the <hi>Trojan-horſe</hi> burſt ope,</l>
+                  <l>And ſuch ruſh forth as might with giants cope:</l>
+                  <l>Theſe firſt the natives treachery felt, too fierce</l>
+                  <l>For any but eye-witneſs to rehearſe.</l>
+                  <l>Yet ſundry times in places where they came</l>
+                  <l>Upon the Indian skins they carv'd their name.</l>
+                  <l>The trees ſtood Centinels and bullets flew</l>
+                  <l>From every buſh (a ſhelter for their crew)</l>
+                  <l>Hence came our wounds and deaths from every ſide</l>
+                  <l>While skulking enemies ſquat undiſcri'd,</l>
+                  <l>That every ſtump ſhot like a musketeer,</l>
+                  <l>And bowes with arrows every tree did bear</l>
+                  <l>The ſwamps were Courts of Guard, thither retir'd</l>
+                  <l>The ſtragling blew-coats when their guns were fir'd,</l>
+                  <pb n="15" facs="tcp:97115:8"/>
+                  <l>In dark Meanders, and theſe winding groves,</l>
+                  <l>Where Beares &amp; panthers with their Monarch moves</l>
+                  <l>Theſe far more cruel ſlily hidden lay,</l>
+                  <l>Expecting engliſh men to move that way.</l>
+                  <l>One party lets them ip, the other greets</l>
+                  <l>Them with the next thing to their winding-ſheets;</l>
+                  <l>Moſt fall, the reſt thus ſtartled back return,</l>
+                  <l>And from their by paſt foes receive an urn.</l>
+                  <l>Here fel a Captain, to be nam'd with tears,</l>
+                  <l>Who for his Courage left not many peers,</l>
+                  <l>With many more who ſcarce a number left</l>
+                  <l>To tell how treacherouſly they were bereft.</l>
+                  <l>This fluſht the pagan courage, now they think</l>
+                  <l>The victory theirs, not lacking meat or drink.</l>
+                  <l>The ranging wolves find here and there a prey,</l>
+                  <l>And having fil'd their paunch they run away</l>
+                  <l>By their Hoſts light, the thanks which they return</l>
+                  <l>Is to lead Captives and their taverns burn.</l>
+                  <l>Many whoſe thrift had ſtor'd for after uſe</l>
+                  <l>Suſtain their wicked plunder and abuſe.</l>
+                  <l>Poor peeple ſpying an unwonted light,</l>
+                  <l>Fearing a Martyrdom, in ſudden fright</l>
+                  <l>Leap to the door to fly, but all in vain,</l>
+                  <l>They are ſurrounded with a pagan train;</l>
+                  <l>Their firſt ſalute is death, which if they ſhun</l>
+                  <l>Some are condemn'd the Gauntelet to run;</l>
+                  <pb n="16" facs="tcp:97115:9"/>
+                  <l>Death would a mercy prove to ſuch as thoſe</l>
+                  <l>VVho feel the rigour of ſuch helliſh foes.</l>
+                  <l>Poſts daily on their <hi>Pegaſean</hi> Steeds</l>
+                  <l>Bring ſad reports of worſe then <hi>Nero's</hi> deeds,</l>
+                  <l>Such bruitiſh Murthers as would paper ſtain</l>
+                  <l>Not to be heard in a Domitians Reign.</l>
+                  <l>The field which nature hid is common laid,</l>
+                  <l>And Mothers bodies ript for lack of aid.</l>
+                  <l>The ſecret Cabinets which nature meant</l>
+                  <l>To hide her maſter piece is open rent,</l>
+                  <l>The half formd Infant there receives a death</l>
+                  <l>Before it ſees the light or draws its breath,</l>
+                  <l>Many hot welcomes from the natives arms</l>
+                  <l>Hid in their ſculking holes many alarms</l>
+                  <l>Our brethren had, and weary weary trants,</l>
+                  <l>Sometimes in melting heats and pinching wants:</l>
+                  <l>Sometimes the clouds with ſympathizing tears</l>
+                  <l>Ready to burſt diſcharg'd about their ears:</l>
+                  <l>Sometimes on craggy hills, anon in bogs</l>
+                  <l>And miery ſwamps better befitting hogs,</l>
+                  <l>And after tedious Marches little boaſt</l>
+                  <l>Is to he heard of ſtewd or bakt or roaſt,</l>
+                  <l>Their beds are hurdles, open houſe they keep</l>
+                  <l>Through ſhady boughs the ſtars upon them peep,</l>
+                  <l>Their chryſtal drink drawn from the mothers breaſt</l>
+                  <l>Diſpoſes not to mirth but ſleep and reſt.</l>
+                  <pb n="17" facs="tcp:97115:9"/>
+                  <l>Thus many dayes and weeks, ſome months run out</l>
+                  <l>To find and quell the vagabonding rout,</l>
+                  <l>Who like inchanted Caſtles fair appear,</l>
+                  <l>But all is vaniſht if you come but near,</l>
+                  <l>Juſt ſo we might the <hi>Pagan</hi> Archers track</l>
+                  <l>With towns and merchandize upon their back;</l>
+                  <l>And thouſands in the <hi>South</hi> who ſettled down</l>
+                  <l>To all the points and winds are quickly blown.</l>
+                  <l>At many meetings of their fleeting crew,</l>
+                  <l>From whom like haile arrows and bullets flew:</l>
+                  <l>The <hi>Engliſh</hi> courage with whole ſwarms diſpute,</l>
+                  <l>Hundreds they hack in pieces in purſuit.</l>
+                  <l>
+                     <hi>Sed hand impunè,</hi> Engliſh ſides do feel</l>
+                  <l>As well as tawny skins the lead and ſteel</l>
+                  <l>And ſome ſuch gallant Sparks by bullets fell,</l>
+                  <l>As might have curſt the powder back to Hell:</l>
+                  <l>Had only Swords theſe skirmiſhes decided</l>
+                  <l>All <hi>Pagan Sculls</hi> had been long ſince divided.</l>
+                  <l>The lingring war out-lives the Summer ſun,</l>
+                  <l>Who hence departs hoping it might be done,</l>
+                  <l>Ere his return at <hi>Spring</hi> but ah hee'l find</l>
+                  <l>The Sword ſtill drawn, men of unchanged mind.</l>
+                  <l>Cold winter now nibbles at hands and toes</l>
+                  <l>And ſhrewdly pinches both our friends and foes.</l>
+                  <l>Fierce <hi>Boreas</hi> whips the <hi>Pagan</hi> tribe together</l>
+                  <l>Adviſing them to fit for foes and weather:</l>
+                  <pb n="18" facs="tcp:97115:10"/>
+                  <l>The axe which late had taſted Chriſtian bloud</l>
+                  <l>Now ſets its ſteely teeth to feaſt on wood.</l>
+                  <l>The foreſts ſuffer now, by waight conſtrein'd</l>
+                  <l>To kiſs the earth with ſouldiers lately brain'd.</l>
+                  <l>The lofty oakes and aſh doe wagge the head</l>
+                  <l>To ſee ſo many of their neighbours dead;</l>
+                  <l>Their fallen carcaſſes are caried thence</l>
+                  <l>To ſtand our enemies in their defence.</l>
+                  <l>Their Myrmidons incloſ'd with clefts of trees</l>
+                  <l>Are buſie like the ants or nimble bees:</l>
+                  <l>And firſt they Innber poles fix in the ground,</l>
+                  <l>In figure of the heavens convex: all round</l>
+                  <l>They draw their arras-matts and skins of beaſts,</l>
+                  <l>And under theſe the Elves do make their neſts.</l>
+                  <l>
+                     <hi>Rome</hi> took more time to grow then twice fix hours</l>
+                  <l>But half that time will ſerve for indian bowers.</l>
+                  <l>A Citty ſhall be rear'd in one dayes ſpace</l>
+                  <l>As ſhall an hundred engliſh men out-face.</l>
+                  <l>
+                     <hi>Canonicus</hi> precincts there ſwarmes unite,</l>
+                  <l>Rather to keep a winter guard then fight.</l>
+                  <l>A dern and diſmal ſwamp ſome Scout had found</l>
+                  <l>Whoſe boſome was a ſpot of riſing ground</l>
+                  <l>Hedg'd up with mighty oakes, maples and aſhes,</l>
+                  <l>Nurſt up with ſprings, quick boggs &amp; miery plaſhes</l>
+                  <l>A place which nature coyn'd on very nonce</l>
+                  <l>For tygers not for men to be a ſconce.</l>
+                  <pb n="19" facs="tcp:97115:10"/>
+                  <l>Twas here theſe Monſters ſhapt and fac'd like men</l>
+                  <l>Took up there Rendezvouz and bro<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>al den,</l>
+                  <l>Deeming the depth of ſnow, hail, froſt and ice</l>
+                  <l>Would make our Infantry more tame and wiſe</l>
+                  <l>Then by by forſaking beds and loving wives,</l>
+                  <l>Meerly for indian skins to hazzard lives:</l>
+                  <l>Theſe hopes had ſomething calm'd the boiling paſſi<g ref="char:EOLhyphen"/>on</l>
+                  <l>Of this incorrigible warlike nation.</l>
+                  <l>During this ſhort <hi>Parentheſis</hi> of peace</l>
+                  <l>Our forces found, but left him not at eaſe.</l>
+                  <l>Here engliſh valour moſt illuſtrious ſhone,</l>
+                  <l>Finding their numbers ten times ten to one.</l>
+                  <l>A ſhower of leaden had our captains feel</l>
+                  <l>Which made the braveſt blades among us reel.</l>
+                  <l>Like to ſome ant-hill nearly ſpurn'd abroad,</l>
+                  <l>Where each takes heels and bears away his load:</l>
+                  <l>Inſtead of place and jewels, indian-trayes</l>
+                  <l>With baskets up they ſnatch and ruſt their wayes.</l>
+                  <l>Sundry the flames arreſt and ſome the blade,</l>
+                  <l>By bullets heaps on heaps of Indians laid.</l>
+                  <l>The Flames like lightening in their narrow ſtreets</l>
+                  <l>Dart in the face of every one it meets.</l>
+                  <l>Here might be heard an hideous indian cry,</l>
+                  <l>Of wounded ones who in the Wigwams fry.</l>
+                  <l>Had we been <hi>Canibals</hi> here might we feaſt</l>
+                  <l>On brave <hi>Weſtphalia</hi> gammons ready dreſt.</l>
+                  <pb n="20" facs="tcp:97115:11"/>
+                  <l>The tauny liue is Ethiopick made</l>
+                  <l>Of ſuch on whome <hi>Vulcan</hi> his clutches laid.</l>
+                  <l>There fate was ſudden, our advantage great</l>
+                  <l>To give them once for all a grand defeat;</l>
+                  <l>But tedious travell had ſo crampt our toes</l>
+                  <l>It was too hard a task to chaſe the foes.</l>
+                  <l>Diſtinctneſs in the numbers of the ſlain,</l>
+                  <l>Or the account of Pagans which remain</l>
+                  <l>Are both uncertain, loſſes of our own</l>
+                  <l>Are too too ſadly felt, too ſadly known.</l>
+                  <l>War digs a common grave for friends and foes,</l>
+                  <l>Captains in with the common ſouldier throws.</l>
+                  <l>Six of our Leaders in the firſt aſſault</l>
+                  <l>Crave readmiſſion to their Mothers Vault</l>
+                  <l>Who had they fell in antient <hi>Homers</hi> dayes</l>
+                  <l>Had been enrol'd with <hi>Hecatembs</hi> of praiſe.</l>
+                  <l>As clouds diſperſt, the natives troops divide,</l>
+                  <l>And like the ſtreames along the thickets glide.</l>
+                  <l>Some breathing time we had, &amp; ſhort God knowes</l>
+                  <l>But new alarums from recruited foes</l>
+                  <l>Bounce at our eares, the mounting clouds of ſmoak</l>
+                  <l>From martyr'd townes the heav'ns for aid invoke:</l>
+                  <l>Churches, barns, houſes with moſt ponderous things</l>
+                  <l>Made volatile fly ore the land with wings.</l>
+                  <l>Hundreds of cattle now they ſacrifice</l>
+                  <l>For alery ſpirits up to gormandize;</l>
+                  <pb n="21" facs="tcp:97115:11"/>
+                  <l>And to the <hi>Molech</hi> of their helliſh guts,</l>
+                  <l>Which craves the fleſh in groſs, their ale in butts.</l>
+                  <l>
+                     <hi>Lancaſter, Medfield. Mendon</hi> wildred <hi>Groton,</hi>
+                  </l>
+                  <l>With many Villages by me not thought on</l>
+                  <l>Dy in their youth by fire that uſefull foe,</l>
+                  <l>Which this grand chear the world will over flow.</l>
+                  <l>The wandring Prieſt to every one he meets</l>
+                  <l>Preaches his Church funeral in the ſtreets.</l>
+                  <l>Sheep from their fold are frighted, Keepers too</l>
+                  <l>Put to their trumps not knowing what to doe.</l>
+                  <l>This monſter Warre hath hatcht a beauteous dove</l>
+                  <l>In dogged hearts, of moſt unfeigned love,</l>
+                  <l>Fraternal love the I very of a Saint</l>
+                  <l>Being come in faſhion though by ſad conſtraint,</l>
+                  <l>Which if it thrive and proſper with us long</l>
+                  <l>Will make <hi>New-England</hi> forty thouſand ſtrong.</l>
+                  <l>
+                     <hi>But off the Table hand, let this ſuffice</hi>
+                  </l>
+                  <l>
+                     <hi>As the abridgment of our miſeryes.</hi>
+                  </l>
+                  <l>
+                     <hi>If Mildew, Famine Sword, and fired Townes,</hi>
+                  </l>
+                  <l>
+                     <hi>If Slaughter, Captivating, Deaths and wounds,</hi>
+                  </l>
+                  <l>
+                     <hi>If daily whippings once reform our wayes,</hi>
+                  </l>
+                  <l>
+                     <hi>Theſe all will iſſue in our Fathers Praiſe;</hi>
+                  </l>
+                  <l>
+                     <hi>If otherwiſe, the ſword muſt never reſt</hi>
+                  </l>
+                  <l>
+                     <hi>Till all</hi> New-Englands <hi>Glory it diveſt.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="supplement">
+            <pb n="22" facs="tcp:97115:12"/>
+            <head>A Supplement.</head>
+            <lg>
+               <l>WHat meanes this ſilence of <hi>Harvardine</hi> quils</l>
+               <l>While <hi>Mars</hi> triumphant thunders on our hills.</l>
+               <l>Have pagan prieſts their Eloquence confin'd</l>
+               <l>To no mans uſe but the myſterious mind?</l>
+               <l>Have Pawaws charm'd that art which was ſo rife</l>
+               <l>To crouch to every Don that loſt his life?</l>
+               <l>But now whole towns and Churches fire and dy</l>
+               <l>Without the pitty of an <hi>Elegy.</hi>
+               </l>
+               <l>Nay rather ſhould my quils were they all ſwords</l>
+               <l>Wear to the hilts in ſome lamenting words.</l>
+               <l>I dare not ſtile them poetry but truth.</l>
+               <l>The dwingling products of my crazy youth.</l>
+               <l>If theſe eſſayes ſhall raiſe ſome quainter pens</l>
+               <l>Twil to the Writer make a rich amends.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Marlburyes</hi> Fate</head>
+               <l>When <hi>Londons</hi> fatal bills were blown abroad</l>
+               <l>And few but Specters travel'd on the road,</l>
+               <l>Not towns but men in the black bill enrol'd</l>
+               <l>Were in <hi>Gazetts</hi> by <hi>Typographers</hi> ſold:</l>
+               <l>But our <hi>Gazetts</hi> without <hi>Errataes</hi> muſt</l>
+               <l>Report the plague of towns reduct to duſt:</l>
+               <pb n="23" facs="tcp:97115:12"/>
+               <l>And feavers formerly to tenants ſent</l>
+               <l>Arreſt the timbers of the tenement.</l>
+               <l>Ere the late ruines of old <hi>Groton</hi>'s cold,</l>
+               <l>Of <hi>Marlbury</hi>'s peracute diſeaſe we're told.</l>
+               <l>The feet of ſuch who neighbouring dwellings urn'd</l>
+               <l>Unto her aſhes, not her doors return'd.</l>
+               <l>And what remaind of tears as yet unſpent</l>
+               <l>Are to its final gaſps a tribute lent.</l>
+               <l>If painter overtrack my pen let him</l>
+               <l>An olive colour mix theſe elves to trim;</l>
+               <l>Of ſuch an hue let many thouſand thieves</l>
+               <l>Be drawn like Scare-crows clad with oaken leaves,</l>
+               <l>Exhauſted of their verdant life and blown</l>
+               <l>From place to place without an home to own.</l>
+               <l>Draw Devils like themſelves, upon their checks</l>
+               <l>The banks for greaſe and mud, a place for leeks.</l>
+               <l>Whoſe locks <hi>Meduſaes</hi> ſnakes, do ropes reſemble,</l>
+               <l>And ghoſtly looks would make <hi>Achilles</hi> tremble.</l>
+               <l>Limm them beſmear'd with Chriſtian Bloud &amp; oild</l>
+               <l>With fat out of white humane bodyes boil'd.</l>
+               <l>Draw them with clubs like maules &amp; full of ſtains,</l>
+               <l>Like <hi>Vulcans</hi> anvilling <hi>New-Englands</hi> brains.</l>
+               <l>Let round be gloomy forreſts with crag'd rocks</l>
+               <l>Where like to caſtles they may hide their flocks,</l>
+               <l>Till oppertunity their cautious friend</l>
+               <l>Shall jogge them fiery worſhip to attend.</l>
+               <pb n="24" facs="tcp:97115:13"/>
+               <l>Shew them like ſerpents in an avious path</l>
+               <l>Seeking to ſow the fire-brands of their wrath.</l>
+               <l>Moſt like Aeneas in his cloak of miſt,</l>
+               <l>Who undiſcover'd move where ere they liſt</l>
+               <l>
+                  <hi>Cupid</hi> they tell us hath too lorts of darts.</l>
+               <l>One ſharp and one obtuſe, one cauſing wounds,</l>
+               <l>One piercing deep the other dull rebounds,</l>
+               <l>But we feel none but ſuch as drill our hearts.</l>
+               <l>From Indian ſheaves which to their ſhoulders cling,</l>
+               <l>Upon the word they quickly feel the ſtring.</l>
+               <l>Let earth be made a ſcreen to hide our woe</l>
+               <l>From Heavens Monarch and his Ladyes too;</l>
+               <l>And leaſt our Jealouſie think they partake,</l>
+               <l>For the red ſtage with clouds a curtain make.</l>
+               <l>Let dogs be gag'd and every quickning ſound</l>
+               <l>Be charm'd to ſilence, here and there all round</l>
+               <l>The town to ſuffer, from a thouſand holes</l>
+               <l>Let crawle theſe fiends with brands and fired poles,</l>
+               <l>Paint here the houſe &amp; there there the barn on fire,</l>
+               <l>with holocauſts aſcending in a ſpire.</l>
+               <l>Here granaries, yonder the Churches ſmoak</l>
+               <l>which vengeance on the actors doth invoke.</l>
+               <l>Let <hi>Morphcus</hi> with his leaden keyes have bound</l>
+               <l>In feather-beds ſome, ſome upon the ground,</l>
+               <l>That none may burſt his drowfie ſhackles till</l>
+               <l>The bruitiſh pagans have obtain'd their will,</l>
+               <pb n="25" facs="tcp:97115:13"/>
+               <l>And <hi>Vulcan</hi> files them off then <hi>Zeuxis</hi> paint</l>
+               <l>The phrenzy glances of of the ſinking ſaint.</l>
+               <l>Draw there the Paſtor for his bible crying,</l>
+               <l>The ſouldier for his ſword, The Glutton frying</l>
+               <l>With ſtreams of glory-fat, the thin-jaw'd Miſer</l>
+               <l>Oh had I given this I had been wiſer.</l>
+               <l>Let here the Mother ſeem a ſtatue turn'd</l>
+               <l>At the ſad object of her bowels burn'd.</l>
+               <l>Let the unſtable weakling in belief</l>
+               <l>Be mounting <hi>Aſhurs</hi> horſes for relief.</l>
+               <l>Let the half Convert ſeem ſuſpended twixt</l>
+               <l>The dens of darkneſs, and the Planets ſixt,</l>
+               <l>Ready to quit his hold, and yet hold faſt</l>
+               <l>By the great <hi>Atlas</hi> of the Heavens vaſt.</l>
+               <l>Paint Papiſts muttering ore their apiſh beads</l>
+               <l>Whome the blind follow while the blind man leads,</l>
+               <l>Let <hi>Ataxy</hi> be mounted on a throne</l>
+               <l>Impoſing her Commands on every one,</l>
+               <l>A many-headed monſter without eyes</l>
+               <l>To ſee the wayes which wont to make men wiſe.</l>
+               <l>Give her a thouſands tongues with wings and hands</l>
+               <l>To be ubiquitary in Commands,</l>
+               <l>But let the concave of her skull appear</l>
+               <l>Clean waſht and empty quite of all but fear,</l>
+               <l>One ſhe bids flee, another ſtay, a third</l>
+               <l>She bids betake him to his ruſty ſword,</l>
+               <pb n="26" facs="tcp:97115:14"/>
+               <l>This to his treaſure, th'other to his knees,</l>
+               <l>Some counſels ſhe to fry and ſome to freeze,</l>
+               <l>Theſe to the gariſon, thoſe to the road,</l>
+               <l>Some to run empty, ſome to take their load:</l>
+               <l>Thus while confuſion moſt mens hearts divide</l>
+               <l>Fire doth their ſmall exchecquer ſoon decide.</l>
+               <l>Thus all things ſeeming ope or ſecret foes,</l>
+               <l>An Infant may grow old before a cloſe,</l>
+               <l>But yet my hopes abide in perfect ſtrength.</l>
+            </lg>
+            <lg>
+               <head>The Town called <hi>Providence</hi> Its Fate.</head>
+               <l>Why muſt wee thus to ſee the wheeles run croſs</l>
+               <l>Since <hi>Providence</hi> it ſelf ſuſtaines a loſs:</l>
+               <l>And yet ſhould <hi>Providence</hi> forget to watch</l>
+               <l>I fear the enemy would all diſpatch;</l>
+               <l>Celeſtial lights would ſoon forget their line,</l>
+               <l>The wandering planets would forget to ſhine,</l>
+               <l>The ſtars run all our of their common ſpheres,</l>
+               <l>And quickly fall together by the eares:</l>
+               <l>Kingdoms would joſtles out their Kings and ſet</l>
+               <l>The poor Mechanick up whome next they met,</l>
+               <l>Or rather would whole kingdoms with the world</l>
+               <l>Into a <hi>Chaos</hi> their firſt egge be hurl'd.</l>
+               <l>Ther's none this Providence of the Moſt High</l>
+               <l>Who can ſurvive and write its Elegie:</l>
+               <pb n="27" facs="tcp:97115:14"/>
+               <l>But of a ſolitary town I write,</l>
+               <l>A place of darkneſs yet receiving light</l>
+               <l>From pagan hands, a miſcellanious neſt</l>
+               <l>Of errors Hectors, where they ſought a reſt</l>
+               <l>Out of the reach of Lawes but not of God,</l>
+               <l>Since they have felt the ſmart of common rod.</l>
+               <l>Twas much I thought they did eſcape ſo long,</l>
+               <l>Who Goſpel truth ſo manifeſtly wronge:</l>
+               <l>For one <hi>Lots</hi> ſake perhaps, or elſe I think</l>
+               <l>Juſtice did at greateſt offenders wink</l>
+               <l>But now the ſhort is paid, I hope the droſs</l>
+               <l>Will be caſhiered in this common loſs.</l>
+               <l>Houſes with ſubſtance feel uplifting wings,</l>
+               <l>The earth remains, the laſt of humane things:</l>
+               <l>But know the diſmal day draws neer wherein</l>
+               <l>The fire ſhall earth it ſelf diſſolve and ſin.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Seaconk Plain</hi> Engagement.</head>
+               <l>On our <hi>Pharſalian Plaines,</hi> comprizing ſpace</l>
+               <l>For <hi>Caeſars</hi> hoſt brave <hi>Pompey</hi> to outface,</l>
+               <l>An handfull of our men are walled round</l>
+               <l>With Indian ſwarmes; anon their pieces ſound</l>
+               <l>A <hi>Madrigal</hi> like heavens artilery</l>
+               <l>Lightning and thunder bolts their bullets fly.</l>
+               <l>Her's hoſts to handfulls, of a fevv they leave</l>
+               <l>Fewer to tell how many they bereave.</l>
+               <pb n="28" facs="tcp:97115:15"/>
+               <l>Fool-hardy fortitude it had been ſure</l>
+               <l>Fierce ſtorms of ſhot and arrows to endure</l>
+               <l>Without all hopes of ſome requital to</l>
+               <l>So numerous and peſtilent a foe.</l>
+               <l>Some muſing a retreat and thence to run,</l>
+               <l>Have in an inſtant all their buſineſs done,</l>
+               <l>They ſink and all their ſorrows ponderous weight</l>
+               <l>Down at their feet they caſt and tumble ſtraight.</l>
+               <l>Such who outliv'd the fate of others fly</l>
+               <l>Into the Iriſh bogs of miſery.</l>
+               <l>Such who might dye like men like beaſts do range</l>
+               <l>Uncertain whither for a better change,</l>
+               <l>Theſe Natives hunt and chaſe with curriſh mind,</l>
+               <l>And plague with crueltyes ſuch as they find.</l>
+               <l>
+                  <hi>When ſhall this ſhower of Bloud be over? When?</hi>
+               </l>
+               <l>
+                  <hi>Quickly we pray oh Lord! ſay thou Amen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Seaconk</hi> or <hi>Rehobeths</hi> Fate.</head>
+               <l>I once conjectur'd that thoſe tygers hard</l>
+               <l>To reverend <hi>Newmans</hi> bones would have regard,</l>
+               <l>But were all <hi>SAINTS</hi> they met twere all one caſe,</l>
+               <l>They have no rev'rence to an Angels face:</l>
+               <l>But where they fix their griping lions paws</l>
+               <l>They rend without remorſe or heed to laws.</l>
+               <l>
+                  <hi>Rehobeth</hi> here in common engliſh, Reſt</l>
+               <l>They ranſack, <hi>Newmans</hi> Relicts to moleſt.</l>
+               <pb n="29" facs="tcp:97115:15"/>
+               <l>Here all the town is made a publick ſtage</l>
+               <l>Whereon theſe <hi>Nimrods</hi> act their monſtrous rage.</l>
+               <l>All crueltyes which paper ſtain'd before</l>
+               <l>Are acted to the life here ore and ore.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Chelmsfords</hi> Fate.</head>
+               <l>Ere famous <hi>Winthrops</hi> bones are laid to reſt</l>
+               <l>The pagans <hi>Chelmsford</hi> with ſad flames arreſt,</l>
+               <l>Making an artificial day of night</l>
+               <l>By that plantations for midable light.</l>
+               <l>Here's midnight ſhrieks and Soul amazing moanes,</l>
+               <l>Enough to melt the very marble ſtones:</l>
+               <l>Fire brands and bullets, darts and deaths and wounds</l>
+               <l>Confuſive outcryes every where reſounds:</l>
+               <l>The natives ſhooting with the mixed cryes,</l>
+               <l>With all the crueltyes the foes deviſe</l>
+               <l>Might fill a volume, but I leave a ſpace</l>
+               <l>For mercyes ſtill ſucceſſive in there place</l>
+               <l>Not doubting but the foes have done their worſt,</l>
+               <l>And ſhall by heaven ſuddenly be curſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Let this dear Lord the ſad Concluſion be</hi>
+               </l>
+               <l>
+                  <hi>Of poor</hi> New-Englands <hi>diſmal tragedy.</hi>
+               </l>
+               <l>
+                  <hi>Let not the glory of thy former work</hi>
+               </l>
+               <l>
+                  <hi>Blaſphemed he by pagan Jew or Turk:</hi>
+               </l>
+               <l>
+                  <hi>But in its funeral aſhes write thy Name</hi>
+               </l>
+               <l>
+                  <hi>So fair all Nations may expound the ſame:</hi>
+               </l>
+               <l>
+                  <hi>Out of her aſhes let a Phoenix riſe</hi>
+               </l>
+               <l>
+                  <hi>That may outſhine the first and be more wiſe.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>B. Tompſon.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="30" facs="tcp:97115:16"/>
+            <head>ON <hi>A FORTIFICATION At</hi> Boſton <hi>begun by Women.</hi>
+            </head>
+            <epigraph>
+               <q>Dux Foemina Facti.</q>
+            </epigraph>
+            <lg>
+               <l>A Grand attempt ſome Amazonian Dames</l>
+               <l>Contrive whereby to glorify their names,</l>
+               <l>A Ruff for <hi>Boſton</hi> Neck of mud and turfe,</l>
+               <l>Reaching from ſide to ſide from ſurfe to ſurfe,</l>
+               <l>Their nimble hands ſpin up like Chriſtmas pyes,</l>
+               <l>Their paſtry by degrees on high doth riſe.</l>
+               <l>The wheel at home counts it an holiday,</l>
+               <l>Since while the Miſtris worketh it may play.</l>
+               <l>A tribe of female hands, but manly hearts</l>
+               <l>Forſake at home their paſty-cruſt and tarts</l>
+               <l>To knead the dirt, the ſamplers down they hurle,</l>
+               <l>Their undulating ſilks they cloſely furle.</l>
+               <l>The pick-axe one as a Commandreſs holds,</l>
+               <l>While t'other at her awkneſs gently ſcolds.</l>
+               <l>One puffs and ſweats, the other mutters why</l>
+               <l>Cant you promove your work ſo faſt as I?</l>
+               <l>Some dig, ſome delve, and others hands do feel</l>
+               <l>The little waggons weight with ſingle wheel.</l>
+               <pb n="31" facs="tcp:97115:16"/>
+               <l>And leaſt ſome fainting fits the weak ſurprize,</l>
+               <l>They want no ſack nor cakes, they are more wiſe.</l>
+               <l>Theſe brave eſſayes draw forth Male ſtronger hands</l>
+               <l>More like to Dawbers then to Martial bands:</l>
+               <l>Theſe do the work, and ſturdy bulwarks raiſe,</l>
+               <l>But the beginners well deſerve the praiſe.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
